@@ -1,0 +1,10 @@
+# Arduino and system
+*.bin
+*.elf
+*.hex
+*.log
+*.tmp
+*.DS_Store
+.vscode/
+.idea/
+*.zip
